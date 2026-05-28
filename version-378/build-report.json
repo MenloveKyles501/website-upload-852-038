@@ -1,0 +1,24 @@
+{
+  "movie_count": 2000,
+  "detail_count": 2000,
+  "category_page_count": 10,
+  "category_card_total": 2000,
+  "html_count": 2016,
+  "analytics_missing": [],
+  "image_files_included": [],
+  "category_counts": {
+    "精选推荐": 200,
+    "热播佳片": 200,
+    "高分佳作": 200,
+    "光影专题": 200,
+    "类型剧场": 200,
+    "新鲜片库": 200,
+    "口碑片单": 200,
+    "年度精选": 200,
+    "全球片库": 200,
+    "经典回看": 200
+  },
+  "hls_source_count": 20,
+  "zip_path": "/mnt/data/recommended_movie_static_site.zip",
+  "zip_size_bytes": 11409552
+}
